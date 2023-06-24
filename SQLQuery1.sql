@@ -1,0 +1,12 @@
+﻿--insert into GameTable(Gname, GPrice) values('j',1.1)
+--insert into GameTable(Gname, GPrice) values('k',1.1)
+--insert into GameTable(Gname, GPrice) values('l',1.1)
+--insert into GameTable(Gname, GPrice) values('m',1.1)
+--insert into GameTable(Gname, GPrice) values('n',1.1)
+--insert into GameTable(Gname, GPrice) values('o',1.1)
+--insert into GameTable(Gname, GPrice) values('p',1.1)
+--insert into GameTable(Gname, GPrice) values('q',1.1)
+--insert into GameTable(Gname, GPrice) values('r',1.1)
+--insert into GameTable(Gname, GPrice) values('s',1.1)
+--select * from sys.databases
+--C:\USERS\AMD\SOURCE\REPOS\WINDOWSFORMSAPP1\WINDOWSFORMSAPP1\STEAMSTORE.MDF
